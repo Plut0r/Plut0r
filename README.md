@@ -45,6 +45,11 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40" />
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Plut0r&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **Plut0r/Plut0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
