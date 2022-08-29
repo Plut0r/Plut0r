@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me : I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 🔭 I’m currently working on becoming better in my field
-- 🌱 I’m currently learning Django and Nextjs
+- 🌱 I’m currently learning NextJs
 - 👯 I’m looking to collaborate on projects that will boost my career growth
 - ⚡ Fun fact: I love music 
 
