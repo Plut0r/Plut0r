@@ -41,7 +41,7 @@ I'm Ogunola Zainab Ololade, a passionate front-end developer based in Ibadan, Ni
 ---
 
 ### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Plut0r&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.v2?user=Plut0r&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plut0r)](https://github.com/anuraghazra/github-readme-stats)
 
